@@ -1,0 +1,1 @@
+不喜欢在网页刷题的读者，可以安装 JetBrains 插件在 JetBrains 的 IDE 全家桶中刷题，其功能和 Chrome 插件相同，安装及功能手册 [请看这里](https://mp.weixin.qq.com/s/NF8mmVyXVfC1ehdMOsO7Cw)。
